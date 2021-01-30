@@ -3,7 +3,7 @@ import "@okta/okta-signin-widget/dist/css/okta-sign-in.min.css"
 import React from "react"
 
 const config = {
-  baseUrl: "dev-68104696.okta.com",
+  baseUrl: "https://dev-68104696.okta.com",
   clientId: "0oa498izpC4DFMEB95d6",
   logo: "//logo.clearbit.com/gatsbyjs.org",
   redirectUri:

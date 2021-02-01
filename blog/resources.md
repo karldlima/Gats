@@ -1,6 +1,6 @@
 ---
 path: /blog/resources
-date: 2020-12-13T10:12:59.335Z
+date: 2021-01-15T10:12:59.335Z
 title: Why Adding X Resources Doesn’t Divide the Workload by X
 ---
 

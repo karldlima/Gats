@@ -8,6 +8,6 @@ title: First post
 
 > **9 pregnant women can’t make a baby in a month.**
 
-## ![image](https://miro.medium.com/max/814/0*bXHZZJtn2IVA2PXf.jpg =400x300)
+## ![team](https://miro.medium.com/max/814/0*bXHZZJtn2IVA2PXf.jpg)
 
 </span>

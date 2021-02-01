@@ -4,8 +4,6 @@ date: 2020-12-13T10:12:59.335Z
 title: Why Adding X Resources Doesn’t Divide the Workload by X
 ---
 
-<span style="color: black; font-family: Georgia, Cambria, Times, serif; font-size: 1em;">
-
 > **9 pregnant women can’t make a baby in a month.**
 
 ## ![team](https://miro.medium.com/max/814/0*bXHZZJtn2IVA2PXf.jpg)
@@ -43,5 +41,3 @@ The results on the next page in the exercise showed that most people’s intuiti
 
 **Take home message:**
 People are naturally hesitant to provide wide ranges — even when the confidence level requires a wide range to be accurate — because they feel that narrow estimates are a sign of a better estimate. **Your estimate probably should be wider than you made it.**
-
-</span>
